@@ -10,7 +10,6 @@ This is an API for a social network web application where users can share their 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 - Install Node.js v16 and npm
@@ -27,6 +26,6 @@ This is an API for a social network web application where users can share their 
   ```
 
 - Walkthrough video
-<video src=""></video>
+<video src="https://user-images.githubusercontent.com/116880367/236142238-a7dff499-de4d-4b16-a015-4b0e223a37ec.mp4"></video>
 
 
